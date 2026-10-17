@@ -1,1 +1,1 @@
-const pressmebutton=document.getelementby"id"(pressme-btn)
+const pressmebutton = document.getelementbyid("pressme-btn")
